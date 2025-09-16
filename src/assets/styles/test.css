@@ -1,0 +1,18 @@
+.container1 {
+    display: flex
+}
+
+.container1 {
+    display: flex
+}
+
+.container2 {
+    display: inline-flex
+}
+
+.container3{
+    display: block
+}
+.container4 {
+    display:  inline;
+}
