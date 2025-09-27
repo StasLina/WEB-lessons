@@ -1,0 +1,30 @@
+.container1 {
+    display: flex;
+    justify-content: space-between;   
+}
+
+.container1-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.container2 {
+    display: inline-flex;
+}
+
+.container3-spacer{
+    display: flex;
+    flex-direction: column;
+}
+.container3-space-elm{
+    flex-grow: 1;
+}
+.container3{
+    display: block;
+    background-color: black;
+    width: 1px;
+    flex-grow: 8;
+}
+.container4 {
+    display:  inline;
+}
